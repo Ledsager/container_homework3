@@ -59,3 +59,4 @@ exit
 root@linux-gb:/home/rust# docker run -d -dit -h ubuntu --name test2 --link mysql:db -p 8080:80 phpmyadmin/phpmyadmin
 
 ```
+![phpmyadmin](https://github.com/Ledsager/container_homework3/blob/main/phpmyadmin.PNG)
